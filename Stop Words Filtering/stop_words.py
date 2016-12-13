@@ -1,4 +1,4 @@
-# Stop Words
+# Stop Words Removal 
 
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
