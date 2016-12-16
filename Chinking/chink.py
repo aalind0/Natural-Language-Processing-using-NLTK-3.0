@@ -1,5 +1,7 @@
-# Chunking
+# Chinking
 # part of pre-processing.
+# similar to chunking. Basically you have to chink from the chunk. LOL
+# Can be understood as again chunking from the given chunk. :P
 
 import nltk
 from nltk.corpus import state_union
